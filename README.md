@@ -1,6 +1,6 @@
 # 🧭 Intruduction
 
-This repository provides a batch inference pipeline using Qwen2.5-VL, a large vision-language model, for Multimodal Reasoning Competition Track1 (VG-RS). Given a set of image-question pairs, the model outputs the corresponding bounding box coordinates.
+This repository provides a batch inference pipeline using Qwen2.5-VL, a large vision-language model, for Multimodal Reasoning Competition Track1 [(VG-RS)](https://eval.ai/web/challenges/challenge-page/2552/overview). Given a set of image-question pairs, the model outputs the corresponding bounding box coordinates.
 
 ---
 
